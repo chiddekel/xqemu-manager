@@ -25,6 +25,6 @@ instance) can be added to this.
 Depends on PyQt5, available with pip. Then run like:
 
 ```
-pip install PyQt5
-python main.py
+pip3 install PyQt5
+python3 main.py
 ```
